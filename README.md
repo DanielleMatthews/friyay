@@ -15,7 +15,7 @@ more practice stuff
 
 [link to my repo, i think](https://github.com/DanielleMatthews/friyay.git) 
 ---
-![image of sunset](homework/crazysun.jpg)
+![image of sunset](crazysun.jpg)
 ---
 Fenced Code Block
 ```
