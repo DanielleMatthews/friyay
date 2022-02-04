@@ -14,5 +14,18 @@ more practice stuff
 - one 
 
 [link to my repo, i think](https://github.com/DanielleMatthews/friyay.git) 
+---
+![image of sunset](homework/crazysun.jpg)
+---
+Fenced Code Block
+```
+{
+    "firstname": "Danielle",
+    "lastname": "Matthews",
+}
+```
+---
+I am a sentence that is supposed to have a footnote. 
+[^1]
 
-![image of sunset](crazysun.jpg)
+[^1]: Yep, you guessed it, I am footnote 
